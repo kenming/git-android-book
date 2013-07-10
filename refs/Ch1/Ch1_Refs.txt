@@ -1,0 +1,9 @@
+o Intro to Distributed Version Control (Illustrated)
+http://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/
+
+o Distributed Version Control Systems:
+http://www.infoq.com/articles/dvcs-guide
+
+o 
+
+o 
