@@ -1,0 +1,14 @@
+o Git version control with Eclipse (EGit) - Tutorial 
+http://www.vogella.com/articles/EGit/#egit_pacakgeexplorerdeco
+
+o Eclipse上GIT插件EGIT使用手冊 
+http://blog.csdn.net/laizhenhai88/article/details/7234974
+
+o EGit Tutorial
+http://eclipsesource.com/blogs/tutorials/egit-tutorial/
+
+o EGit/User Guide
+http://wiki.eclipse.org/EGit/User_Guide
+
+o EGit Project
+http://www.eclipse.org/egit/
