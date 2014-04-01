@@ -1,6 +1,6 @@
-﻿.. _Ch0-prerequisite:
+﻿.. _Ch0-casestudy-and-develop-tools:
 
-第零章、準備事項
+第零章、案例描述與開發工具
 ****************************************
 
 .. toctree::
@@ -8,9 +8,9 @@
    :maxdepth: 1
    
    01-casestudy-design
-   02-prepare-develop-environment
-   03-setup-eclipse-egit
+   02-install-setup-git
+   03-build-android-develop-environment
 
-- 0.1 案例設計
-- 0.2 準備開發環境
-- :doc:`0.3 設定 Eclipse EGit <03-setup-eclipse-egit>`
+- :doc:`0.1 案例設計 Git <01-casestudy-design>`
+- :doc:`0.2 安裝與設定 Git <02-install-setup-git>`
+- :doc:`0.3 建置開發環境 <03-build-android-develop-environment>`

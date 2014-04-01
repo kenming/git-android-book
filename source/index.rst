@@ -12,8 +12,8 @@
 ---------------------------------------------------
 
 - 0.1 案例設計
-- 0.2 準備開發環境
-- :doc:`0.3 設定 Eclipse EGit <Ch0/03-setup-eclipse-egit>`
+- :doc:`0.2 安裝與設定 Git <Ch0/02-install-setup-git>`
+- :doc:`0.3 建置 Android 開發環境 <Ch0/03-build-android-develop-environment>`
 
 :doc:`第一章、初識 Git/GitHub <Ch1/index>`
 ---------------------------------------------------
